@@ -1,5 +1,3 @@
-Zet hier de arduino code
-
 #define trigger 8
 const int LED = 8;
 const int LED2 = 7;
